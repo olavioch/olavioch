@@ -1,5 +1,5 @@
 ### Seja Bem Vindo👋  
-Sou desenvolvedor Front End (React) voltado em tecnologias voltado ao lado do cliente    
+Sou desenvolvedor Front End (React) expert em tecnologias voltado ao lado do cliente    
 #####
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olavioch&show_icons=true)  
 #####
